@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-프로젝트를 시작해볼까나!
-본격적으로!
-이건 수정
+aaa
 </body>
 </html>
